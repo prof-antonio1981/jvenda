@@ -5,5 +5,13 @@
  </head>
  <body>
    <h1>Bem vindo ao projeto Jvenda</h1>
+   <div id="container">
+	<form>
+		<div class="form-group">
+			<label>nome</label>
+			<input type="text" id="nome"/>
+		</div>
+	</form>
+   </div>
  </body>
 </html>
